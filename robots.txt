@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://latherio.github.io/sitemap.html.gz
+Sitemap: https://latherio.github.io/app/sitemap.html.gz
+Sitemap: https://latherio.github.io/assets/sitemap.html.gz
+Sitemap: https://latherio.github.io/css/sitemap.html.gz
+Sitemap: https://latherio.github.io/includes/sitemap.html.gz
+Sitemap: https://latherio.github.io/item/sitemap.html.gz
+Sitemap: https://latherio.github.io/src/sitemap.html.gz
